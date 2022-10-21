@@ -22,7 +22,7 @@ COLOR=You Color Here
 
 ### 🏃‍♂️ Starting Logger's
 * Run Logger's With: `node .` 
-* Check the console to see if there are any errors... Well, we hope that there are none. :3
-* If you haven't, add your bot to a Discord server.
-* After booting up, try using `/jujuba` on your Discord server.
-* If everything went well, your very own Jujuba instance should be up and running! Congratulations! 🎉
+* Check The Console To See If There Are Any Errors... Well, We Hope That There Are None. :3
+* If You Haven't, Add Your Bot To A Discord Server.
+* After Booting Up, Try Using `/help` On Your Discord Server.
+* If Everything Went Well, Your Very Own Logger's Instance Should Be Up And Running! Congratulations! 🎉
