@@ -6,7 +6,6 @@
 
 <p align="center">
 <a href="https://top.gg/bot/1031185300178878514?utm_source=widget">
-<img src="https://top.gg/servers/994666704812658698" alt="Discord Bots" />
 </a>
  </p>
 
