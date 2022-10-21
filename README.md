@@ -5,8 +5,8 @@
 <h1 align="center">❤️ Logger's ❤️</h1>
 
 <p align="center">
-<a href="https://discordbots.org/bot/970134090152034354?utm_source=widget">
-<img src="https://discordbots.org/api/widget/970134090152034354.png?test=123456" alt="Discord Bots" />
+<a href="https://top.gg/bot/1031185300178878514?utm_source=widget">
+<img src="https://top.gg/servers/994666704812658698" alt="Discord Bots" />
 </a>
  </p>
 
