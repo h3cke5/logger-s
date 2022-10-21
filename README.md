@@ -1,5 +1,5 @@
 <p align="center">
-<img width="65%" src="https://images-ext-1.discordapp.net/external/rJQTE-N6425lbZmQsBZ38OGLbxeCka9q2GpFRYUBs_0/%3Fsize%3D4096%26quality%3Dlossless%26v%3D1/https/cdn.discordapp.com/avatars/1031185300178878514/c8669bdf6b5e078b3a117037e26c7f26.png?width=701&height=701">
+<img width="65%" src="">
 <br>
 
 <h1 align="center">❤️ Logger's ❤️</h1>
