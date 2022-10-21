@@ -17,7 +17,7 @@
 </p>
 
 
-## 🤔 How to add?
+## 🤔 How To Add?
 
 If you want to use Jujuba on your server, you can add our public instance by [clicking here](https://discord.com/api/oauth2/authorize?client_id=970134090152034354&permissions=8&scope=applications.commands%20bot)! We recommend using the public instance.
 
