@@ -11,9 +11,8 @@
 
 ## 🤔 How To Add?
 
-If you want to use Jujuba on your server, you can add our public instance by [clicking here](https://discord.com/api/oauth2/authorize?client_id=970134090152034354&permissions=8&scope=applications.commands%20bot)! We recommend using the public instance.
-
-You can also host Jujuba yourself, however we won't give support for people that are trying to selfhost her, we don't want to spend hours trying to troubleshoot other people issues that only happens on selfhosted instances, so you should at least know how to troubleshoot issues, if you find any.
+If You Want To Use Logger's On Your Server, You Can Add Our Public Instance By: [Clicking Here](https://dsc.gg/loggers)! We Recommend Using The Public Instance.
+You Can Also Host Logger's Yourself, However We Won't Give Support For People That Are Trying To Selfhost Her, We Don't Want To Spend Hours Trying To Troubleshoot Other People Issues That Only Happens On Selfhosted Instances, So You Should At Least Know How To Troubleshoot Issues, If You Find Any.
 
 ### ⚙️ Configure .env
 
