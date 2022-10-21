@@ -26,7 +26,7 @@ client.on('interactionCreate', (interaction) => {
 client.on("ready", async() => {
     console.log(`📝 | Estou Online Em: ${client.user.username}❗`)
   
-    const atividade = [{name: `💖 ┃ Servidores: ${client.guilds.cache.size}`, type: 2}, {name: `📝 ┃ Log's`, type: 3}];
+    const atividade = [{name: `❗ ┃ BETA`, type: 2}, {name: `📝 ┃ Log's`, type: 3}];
     const status = [`idle`]; //online 🟢, idle 🟡, dnd 🔴
   
     let random1 = 0;
