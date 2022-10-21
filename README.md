@@ -9,14 +9,6 @@
 </a>
  </p>
 
-<p align="center">
-<a href="https://loggers.ga"><img src="https://img.shields.io/badge/website-jujuba-4daff8.svg"></a>
-</a>
-<a href="https://loggers.ga/donate"><img src="https://img.shields.io/badge/donate-jujuba-33cf57.svg"></a>
-<a href="https://loggers.ga/support"><img src="https://discordapp.com/api/guilds/968570313027780638/widget.png"></a>
-</p>
-
-
 ## 🤔 How To Add?
 
 If you want to use Jujuba on your server, you can add our public instance by [clicking here](https://discord.com/api/oauth2/authorize?client_id=970134090152034354&permissions=8&scope=applications.commands%20bot)! We recommend using the public instance.
