@@ -14,7 +14,7 @@
 Se Você Quiser Usar O Logger's No Seu Servidor, 
 Você Pode Adicionar Nosso Bot Público Por: [Aqui](https://dsc.gg/loggers)! 
 Recomendamos O Uso Do Bot Público.
-Você Também Pode Hospedar O Logger, No Entanto, Não Daremos Suporte Para Pessoas Que Estão Tentando Autohospedá-La, 
+Você Também Pode Hospedar O Logger's, No Entanto, Não Daremos Suporte Para Pessoas Que Estão Tentando Autohospedá-La, 
 Não Queremos Passar Horas Tentando Solucionar Problemas De Outras Pessoas.
 Então Você Deve Pelo Menos Saber Como Solucionar Problemas, Se Você Encontrar Algum.
 
